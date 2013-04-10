@@ -1,8 +1,8 @@
 # Chromelogger for Ruby
 
 Ruby gem for logging to Google Chrome's console using the [Chrome Logger
-extension](http://chromelogger.com/) by @ccampbell.
-It also provides a middleware class you can you in any Rack based application.
+extension](http://chromelogger.com/) by [ccampbell](https://github.com/ccampbell/).
+It also provides a middleware class you can with any Rack based application.
 
 ## Installation
 
