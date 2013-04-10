@@ -1,0 +1,1 @@
+require 'chromelogger/base'
